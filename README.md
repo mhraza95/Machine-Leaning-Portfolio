@@ -1,2 +1,2 @@
-# Machine-Leaning-Portfolio
+# Machine-Learning-Portfolio
 Machine learning 
